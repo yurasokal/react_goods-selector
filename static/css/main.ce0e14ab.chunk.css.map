@@ -1,1 +1,0 @@
-{"version":3,"sources":["App.scss"],"names":[],"mappings":"AAAA,QACE,SAAU,CACX,SAGC,wBAAkC,CAClC,gBAAiB,CACjB,iBAAkB,CAClB,UAAW,CACZ,GAGC,eAAgB","file":"main.ce0e14ab.chunk.css","sourcesContent":[".button {\n  opacity: 0;\n}\n\n.product {\n  background-color: rgb(0, 255, 234);\n  border: 1px solid;\n  border-radius: 9px;\n  color: #fff;\n}\n\nul {\n  list-style: none;\n}\n"]}
